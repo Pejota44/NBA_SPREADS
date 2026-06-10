@@ -1,34 +1,34 @@
-season,date,regular,playoffs,away,home,score_away,score_home,q1_away,q2_away,q3_away,q4_away,ot_away,q1_home,q2_home,q3_home,q4_home,ot_home,whos_favored,spread,total,moneyline_away,moneyline_home,h2_spread,h2_total,id_spread,id_total,underdog_wins,underdog_covers_no_win,fave_covers,ATS_outcome,Season_Type
-2020,2020-08-15,False,False,mem,por,122,126,19,33,42,28,0,31,27,31,37,0,home,6.0,229.5,220.0,-260.0,1.5,116.0,0.0,1,False,True,False,Underdog Covers But Loses,PlayIn
-2021,2021-05-18,False,False,cha,ind,117,144,24,21,33,39,0,40,29,39,36,0,home,1.5,226.0,110.0,-130.0,5.5,109.5,1.0,1,False,False,True,Favorite Covers,PlayIn
-2021,2021-05-18,False,False,wsh,bos,100,118,21,33,26,20,0,27,25,38,28,0,home,2.0,233.0,110.0,-130.0,0.505,114.0,1.0,0,False,False,True,Favorite Covers,PlayIn
-2021,2021-05-19,False,False,sa,mem,96,100,19,30,16,31,0,38,18,16,28,0,home,4.5,224.0,170.0,-190.0,0.5,114.0,0.0,0,False,True,False,Underdog Covers But Loses,PlayIn
-2021,2021-05-19,False,False,gs,lal,100,103,28,27,24,21,0,22,20,35,26,0,home,5.5,217.0,205.0,-245.0,7.0,106.0,0.0,0,False,True,False,Underdog Covers But Loses,PlayIn
-2021,2021-05-20,False,False,ind,wsh,115,142,29,23,31,32,0,30,36,48,28,0,home,3.5,240.5,140.0,-160.0,3.0,119.0,1.0,1,False,False,True,Favorite Covers,PlayIn
-2021,2021-05-21,False,False,mem,gs,117,112,30,32,16,21,18,29,20,24,26,13,home,4.5,220.5,185.0,-215.0,7.5,111.5,0.0,1,True,False,False,Underdog Wins,PlayIn
-2022,2022-04-12,False,False,cle,bkn,108,115,20,23,30,35,0,40,17,28,30,0,home,9.5,227.5,400.0,-500.0,1.5,110.5,0.0,0,False,True,False,Underdog Covers But Loses,PlayIn
-2022,2022-04-12,False,False,lac,min,104,109,26,25,33,20,0,20,33,25,31,0,home,3.5,231.0,135.0,-155.0,1.5,117.5,1.0,0,False,False,True,Favorite Covers,PlayIn
-2022,2022-04-13,False,False,cha,atl,103,132,23,29,24,27,0,32,28,42,30,0,home,5.5,235.0,185.0,-215.0,0.5,115.5,1.0,2,False,False,True,Favorite Covers,PlayIn
-2022,2022-04-13,False,False,sa,no,103,113,22,28,25,28,0,26,35,31,21,0,home,5.0,225.0,185.0,-215.0,1.0,110.5,1.0,0,False,False,True,Favorite Covers,PlayIn
-2022,2022-04-15,False,False,atl,cle,107,101,25,26,33,23,0,36,25,23,17,0,away,2.5,223.0,-135.0,115.0,4.0,108.5,1.0,0,False,False,True,Favorite Covers,PlayIn
-2022,2022-04-15,False,False,no,lac,105,101,30,26,18,31,0,22,24,38,17,0,away,1.5,216.5,220.0,-260.0,2.5,112.0,1.0,0,False,False,True,Favorite Covers,PlayIn
-2023,2023-04-11,False,False,min,lal,102,108,28,32,26,12,4,22,27,30,19,10,home,8.5,233.5,,,,,0.0,0,False,True,False,Underdog Covers But Loses,PlayIn
-2023,2023-04-11,False,False,atl,mia,116,105,36,29,26,25,0,27,23,28,27,0,home,5.5,227.5,,,,,0.0,0,True,False,False,Underdog Wins,PlayIn
-2023,2023-04-12,False,False,chi,tor,109,105,23,24,25,37,0,28,30,23,24,0,home,5.5,212.5,,,,,0.0,1,True,False,False,Underdog Wins,PlayIn
-2023,2023-04-12,False,False,okc,no,123,118,32,25,39,27,0,29,34,24,31,0,home,5.5,226.5,,,,,0.0,1,True,False,False,Underdog Wins,PlayIn
-2023,2023-04-14,False,False,chi,mia,91,102,21,23,24,23,0,29,20,18,35,0,home,5.5,209.5,,,,,1.0,0,False,False,True,Favorite Covers,PlayIn
-2023,2023-04-14,False,False,okc,min,95,120,23,24,31,17,0,24,33,38,25,0,home,6.5,228.5,,,,,1.0,0,False,False,True,Favorite Covers,PlayIn
-2024,2023-12-09,False,False,ind,lal,109,123,29,31,22,27,0,34,31,25,33,0,home,3.5,242.5,,,,,1.0,0,False,False,True,Favorite Covers,PlayIn
-2024,2024-04-16,False,False,gs,sac,94,118,22,28,26,18,0,31,23,37,27,0,away,3.5,222.5,,,,,0.0,0,True,False,False,Underdog Wins,PlayIn
-2024,2024-04-16,False,False,lal,no,110,106,26,34,23,27,0,34,16,26,30,0,home,1.5,224.5,,,,,0.0,0,True,False,False,Underdog Wins,PlayIn
-2024,2024-04-17,False,False,atl,chi,116,131,22,45,25,24,0,40,33,37,21,0,home,3.5,222.5,,,,,1.0,1,False,False,True,Favorite Covers,PlayIn
-2024,2024-04-17,False,False,mia,phi,104,105,23,28,23,30,0,22,17,30,36,0,home,5.5,207.5,,,,,0.0,1,False,True,False,Underdog Covers But Loses,PlayIn
-2024,2024-04-19,False,False,sac,no,98,105,24,21,29,24,0,22,32,29,22,0,home,1.5,212.5,,,,,1.0,0,False,False,True,Favorite Covers,PlayIn
-2024,2024-04-19,False,False,chi,mia,91,112,17,20,23,31,0,34,13,35,30,0,home,2.5,207.5,,,,,1.0,0,False,False,True,Favorite Covers,PlayIn
-2025,2024-12-17,False,False,mil,okc,97,81,27,24,26,20,0,28,22,14,17,0,home,5.5,214.5,,,,,0.0,0,True,False,False,Underdog Wins,PlayIn
-2025,2025-04-15,False,False,atl,orl,95,120,17,30,26,22,0,32,29,18,41,0,home,6.5,220.5,,,,,1.0,0,False,False,True,Favorite Covers,PlayIn
-2025,2025-04-15,False,False,mem,gs,116,121,25,30,36,25,0,31,36,27,27,0,home,6.5,225.5,,,,,0.0,1,False,True,False,Underdog Covers But Loses,PlayIn
-2025,2025-04-16,False,False,mia,chi,109,90,39,32,17,21,0,28,19,27,16,0,home,1.5,220.5,,,,,0.0,0,True,False,False,Underdog Wins,PlayIn
-2025,2025-04-16,False,False,dal,sac,120,106,27,44,28,21,0,29,19,33,25,0,home,5.5,214.5,,,,,0.0,1,True,False,False,Underdog Wins,PlayIn
-2025,2025-04-18,False,False,dal,mem,106,120,24,25,29,28,0,39,27,30,24,0,home,5.5,222.5,,,,,1.0,1,False,False,True,Favorite Covers,PlayIn
-2025,2025-04-18,False,False,mia,atl,123,114,33,29,24,20,17,24,29,24,29,8,away,2.5,221.5,,,,,1.0,1,False,False,True,Favorite Covers,PlayIn
+season,date,regular,playoffs,away,home,score_away,score_home,q1_away,q2_away,q3_away,q4_away,ot_away,q1_home,q2_home,q3_home,q4_home,ot_home,whos_favored,spread,total,moneyline_away,moneyline_home,h2_spread,h2_total,id_spread,id_total,underdog_wins,underdog_covers_no_win,fave_covers,ATS_outcome,Season_Type,home_favored,decisive_outcome
+2020,2020-08-15,False,False,mem,por,122,126,19,33,42,28,0,31,27,31,37,0,home,6.0,229.5,220.0,-260.0,1.5,116.0,0.0,1,False,True,False,Underdog Covers But Loses,PlayIn,,False
+2021,2021-05-18,False,False,cha,ind,117,144,24,21,33,39,0,40,29,39,36,0,home,1.5,226.0,110.0,-130.0,5.5,109.5,1.0,1,False,False,True,Favorite Covers,PlayIn,,True
+2021,2021-05-18,False,False,wsh,bos,100,118,21,33,26,20,0,27,25,38,28,0,home,2.0,233.0,110.0,-130.0,0.505,114.0,1.0,0,False,False,True,Favorite Covers,PlayIn,,True
+2021,2021-05-19,False,False,sa,mem,96,100,19,30,16,31,0,38,18,16,28,0,home,4.5,224.0,170.0,-190.0,0.5,114.0,0.0,0,False,True,False,Underdog Covers But Loses,PlayIn,,False
+2021,2021-05-19,False,False,gs,lal,100,103,28,27,24,21,0,22,20,35,26,0,home,5.5,217.0,205.0,-245.0,7.0,106.0,0.0,0,False,True,False,Underdog Covers But Loses,PlayIn,,False
+2021,2021-05-20,False,False,ind,wsh,115,142,29,23,31,32,0,30,36,48,28,0,home,3.5,240.5,140.0,-160.0,3.0,119.0,1.0,1,False,False,True,Favorite Covers,PlayIn,,True
+2021,2021-05-21,False,False,mem,gs,117,112,30,32,16,21,18,29,20,24,26,13,home,4.5,220.5,185.0,-215.0,7.5,111.5,0.0,1,True,False,False,Underdog Wins,PlayIn,,True
+2022,2022-04-12,False,False,cle,bkn,108,115,20,23,30,35,0,40,17,28,30,0,home,9.5,227.5,400.0,-500.0,1.5,110.5,0.0,0,False,True,False,Underdog Covers But Loses,PlayIn,,False
+2022,2022-04-12,False,False,lac,min,104,109,26,25,33,20,0,20,33,25,31,0,home,3.5,231.0,135.0,-155.0,1.5,117.5,1.0,0,False,False,True,Favorite Covers,PlayIn,,True
+2022,2022-04-13,False,False,cha,atl,103,132,23,29,24,27,0,32,28,42,30,0,home,5.5,235.0,185.0,-215.0,0.5,115.5,1.0,2,False,False,True,Favorite Covers,PlayIn,,True
+2022,2022-04-13,False,False,sa,no,103,113,22,28,25,28,0,26,35,31,21,0,home,5.0,225.0,185.0,-215.0,1.0,110.5,1.0,0,False,False,True,Favorite Covers,PlayIn,,True
+2022,2022-04-15,False,False,atl,cle,107,101,25,26,33,23,0,36,25,23,17,0,away,2.5,223.0,-135.0,115.0,4.0,108.5,1.0,0,False,False,True,Favorite Covers,PlayIn,,True
+2022,2022-04-15,False,False,no,lac,105,101,30,26,18,31,0,22,24,38,17,0,away,1.5,216.5,220.0,-260.0,2.5,112.0,1.0,0,False,False,True,Favorite Covers,PlayIn,,True
+2023,2023-04-11,False,False,min,lal,102,108,28,32,26,12,4,22,27,30,19,10,home,8.5,233.5,,,,,0.0,0,False,True,False,Underdog Covers But Loses,PlayIn,,False
+2023,2023-04-11,False,False,atl,mia,116,105,36,29,26,25,0,27,23,28,27,0,home,5.5,227.5,,,,,0.0,0,True,False,False,Underdog Wins,PlayIn,,True
+2023,2023-04-12,False,False,chi,tor,109,105,23,24,25,37,0,28,30,23,24,0,home,5.5,212.5,,,,,0.0,1,True,False,False,Underdog Wins,PlayIn,,True
+2023,2023-04-12,False,False,okc,no,123,118,32,25,39,27,0,29,34,24,31,0,home,5.5,226.5,,,,,0.0,1,True,False,False,Underdog Wins,PlayIn,,True
+2023,2023-04-14,False,False,chi,mia,91,102,21,23,24,23,0,29,20,18,35,0,home,5.5,209.5,,,,,1.0,0,False,False,True,Favorite Covers,PlayIn,,True
+2023,2023-04-14,False,False,okc,min,95,120,23,24,31,17,0,24,33,38,25,0,home,6.5,228.5,,,,,1.0,0,False,False,True,Favorite Covers,PlayIn,,True
+2024,2023-12-09,False,False,ind,lal,109,123,29,31,22,27,0,34,31,25,33,0,home,3.5,242.5,,,,,1.0,0,False,False,True,Favorite Covers,PlayIn,,True
+2024,2024-04-16,False,False,gs,sac,94,118,22,28,26,18,0,31,23,37,27,0,away,3.5,222.5,,,,,0.0,0,True,False,False,Underdog Wins,PlayIn,,True
+2024,2024-04-16,False,False,lal,no,110,106,26,34,23,27,0,34,16,26,30,0,home,1.5,224.5,,,,,0.0,0,True,False,False,Underdog Wins,PlayIn,,True
+2024,2024-04-17,False,False,atl,chi,116,131,22,45,25,24,0,40,33,37,21,0,home,3.5,222.5,,,,,1.0,1,False,False,True,Favorite Covers,PlayIn,,True
+2024,2024-04-17,False,False,mia,phi,104,105,23,28,23,30,0,22,17,30,36,0,home,5.5,207.5,,,,,0.0,1,False,True,False,Underdog Covers But Loses,PlayIn,,False
+2024,2024-04-19,False,False,sac,no,98,105,24,21,29,24,0,22,32,29,22,0,home,1.5,212.5,,,,,1.0,0,False,False,True,Favorite Covers,PlayIn,,True
+2024,2024-04-19,False,False,chi,mia,91,112,17,20,23,31,0,34,13,35,30,0,home,2.5,207.5,,,,,1.0,0,False,False,True,Favorite Covers,PlayIn,,True
+2025,2024-12-17,False,False,mil,okc,97,81,27,24,26,20,0,28,22,14,17,0,home,5.5,214.5,,,,,0.0,0,True,False,False,Underdog Wins,PlayIn,,True
+2025,2025-04-15,False,False,atl,orl,95,120,17,30,26,22,0,32,29,18,41,0,home,6.5,220.5,,,,,1.0,0,False,False,True,Favorite Covers,PlayIn,,True
+2025,2025-04-15,False,False,mem,gs,116,121,25,30,36,25,0,31,36,27,27,0,home,6.5,225.5,,,,,0.0,1,False,True,False,Underdog Covers But Loses,PlayIn,,False
+2025,2025-04-16,False,False,mia,chi,109,90,39,32,17,21,0,28,19,27,16,0,home,1.5,220.5,,,,,0.0,0,True,False,False,Underdog Wins,PlayIn,,True
+2025,2025-04-16,False,False,dal,sac,120,106,27,44,28,21,0,29,19,33,25,0,home,5.5,214.5,,,,,0.0,1,True,False,False,Underdog Wins,PlayIn,,True
+2025,2025-04-18,False,False,dal,mem,106,120,24,25,29,28,0,39,27,30,24,0,home,5.5,222.5,,,,,1.0,1,False,False,True,Favorite Covers,PlayIn,,True
+2025,2025-04-18,False,False,mia,atl,123,114,33,29,24,20,17,24,29,24,29,8,away,2.5,221.5,,,,,1.0,1,False,False,True,Favorite Covers,PlayIn,,True
